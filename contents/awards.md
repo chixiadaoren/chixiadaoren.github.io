@@ -1,13 +1,13 @@
 - 第十五届蓝桥杯5G网络规划与设计全国选拔赛一等奖
 
-- First-prize Scholarship of CUMT, 2024.
+- 第十五届蓝桥杯5G网络规划与设计全国总决赛二等奖
 
-- First-prize Scholarship of CUMT, 2023.
+- 第七届全国大学生网络部署与优化大赛5G工程实践赛华北赛区一等奖
 
-- Freshman Scholarship of CUMT, 2022.
+- 山西省第十七届职业院校技能大赛5G组网与运维一等奖
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- 第一届全国信息通信行业职业技能大赛山西预选赛一等奖
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- 第一届全国信息通信行业职业技能大赛全国总决赛三等奖
 
-- First-prize Scholarship of CUMT, 2019.
+- 第八届全国大学生网络与信息技术大赛5G工程实践赛华北赛区一等奖

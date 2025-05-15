@@ -1,16 +1,14 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+一个普通的学者...
+我像一只菜鸟，漫无目的的走在沙漠里，像鸵鸟一样把头埋在沙子里，可是，我突然发现，原来眼前是星辰大海...
 
 #### Email
-sli[at]cumt.edu.cn
+1351318848@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+智能交通（2022-2026）
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+移动通信技术；数据通信技术；计算机网络；
+
+MachineLearning；5G组网与规划
 
