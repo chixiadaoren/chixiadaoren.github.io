@@ -24,7 +24,8 @@ liuyiwei04@163.com
 ```text
 移动通信技术;数据通信技术;计算机网络;
 MachineLearning;5G组网与规划;
-Python、C/C++...
+Python、C/C++;
+信号与系统...
 ```
 
 
